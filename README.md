@@ -5,9 +5,6 @@ Vivência em grandes empresas nas áreas de desenvolvimento de produtos e acess�
 
 <a href="https://renatogsantos.github.io">Renato G Santos - Portfólio</a>
 
-
 <div>
-  <img height="250rem" src="https://github-readme-stats.vercel.app/api?username=renatogsantos&show_icons=true&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogsantos&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
- </div>
+  <img height="250rem" src="https://github-readme-stats.vercel.app/api?username=renatogsantos&show_icons=true&show_icons=true&theme=radical&include_all_commits=true"/></div>
 
