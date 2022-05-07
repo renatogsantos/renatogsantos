@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Renato G Santos</h1>
+<h2>Desenvolvedor Web Front End e UX/UI na REDE IDEIA | Autoridade Certificadora</h2>
+<small>Especialista na área de Design Gráfico, atuando no mercado há 8 anos desenvolvendo projetos para grandes empresas, com atuação nas áreas de Diagramação de Revistas, Criação de logomarcas, Marketing, Web Design, Design Gráfico, entre muitas outras. Experiente nos processos de desenvolvimento de marcas e produtos relacionados, Branding e divulgação com o uso das mais diversas ferramentas disponíveis atualmente.
+Vivência em grandes empresas nas áreas de desenvolvimento de produtos e acessórios, e de implementação de marcas.</small>
 
-<!--
-**renatogsantos/renatogsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://renatogsantos.github.io">Renato G Santos - Portfólio</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="250rem" src="https://github-readme-stats.vercel.app/api?username=renatogsantos&show_icons=true&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogsantos&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+ </div>
+
