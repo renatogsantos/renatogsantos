@@ -8,6 +8,3 @@ Vivência em grandes empresas nas áreas de desenvolvimento de produtos e acess�
 
 <div>
   <img height="250rem" src="https://github-readme-stats.vercel.app/api?username=renatogsantos&show_icons=true&show_icons=true&theme=radical&include_all_commits=false"/></div>
-  
-  <a href="https://app.daily.dev/RenatoGSantos"><img src="https://api.daily.dev/devcards/6a6af701792c4213b17b431a4c29a98a.png?r=xki" width="400" alt="RenatoGSantos's Dev Card"/></a>
-
