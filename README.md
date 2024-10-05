@@ -6,9 +6,9 @@ Sou um profissional apaixonado por criar experiências digitais excepcionais, co
 
 ### Expertise Técnica
 
-- **Tecnologias Front-end:** HTML5, CSS, JavaScript
-- **Frameworks e Bibliotecas:** React.js, Next.js, Redux.js, Bootstrap
-- **Ferramentas de Estilo:** SASS
+- **Tecnologias Front-end:** HTML5, CSS, JavaScript, Typescript
+- **Frameworks e Bibliotecas:** React.js, Next.js, Redux.js, Bootstrap, Zustand entre outros
+- **Ferramentas de Estilo:** SASS, Nexui, ShadCN
 - **Controle de Pacotes:** npm, Docker
 
 ### Design Centrado no Usuário
