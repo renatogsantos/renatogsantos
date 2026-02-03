@@ -1,32 +1,79 @@
 # Perfil Profissional
 
-## Desenvolvedor Web Front End e Designer UX UI
+## Desenvolvedor Web Front-end Pleno & Designer UX/UI
 
-Sou um profissional apaixonado por criar experiências digitais excepcionais, combinando habilidades sólidas em desenvolvimento web front-end com uma expertise destacada em design de interface do usuário (UI) e experiência do usuário (UX). Minha jornada inclui um foco especial em processos de desenvolvimento de software as a service (SaaS) e produtos relacionados.
+Sou um **Desenvolvedor Front-end Pleno e Designer UX/UI**, apaixonado por criar experiências digitais eficientes, escaláveis e centradas no usuário. Uno uma base técnica sólida em desenvolvimento web moderno com uma forte visão de produto, design e usabilidade, atuando principalmente em **produtos SaaS** e plataformas digitais.
 
-### Expertise Técnica
+Atualmente, ampliei meu escopo de atuação integrando **LLMs (Large Language Models)** e **MCPs (Model Context Protocols)** ao meu fluxo de trabalho, utilizando **inteligência artificial como acelerador de produtividade**, qualidade e tomada de decisão no desenvolvimento de software.
 
-- **Tecnologias Front-end:** HTML5, CSS, JavaScript, Typescript
-- **Frameworks e Bibliotecas:** React.js, Next.js, Redux.js, Bootstrap, Zustand entre outros
-- **Ferramentas de Estilo:** SASS, Nexui, ShadCN
-- **Controle de Pacotes:** npm, Docker
+---
 
-### Design Centrado no Usuário
+## Expertise Técnica
 
-Minha paixão pelo design de interface do usuário (UI) e experiência do usuário (UX) orienta meu trabalho na criação de produtos digitais com excelente usabilidade e uma experiência agradável para o usuário.
+### Desenvolvimento Front-end
 
-### Desenvolvimento Escalável
+* **Linguagens:** HTML5, CSS3, JavaScript, TypeScript
+* **Frameworks & Bibliotecas:** React.js, Next.js, Redux.js, Zustand, Bootstrap
+* **Estilização & UI:** SASS, NextUI, ShadCN/UI
+* **Gerenciamento de Pacotes & Ambientes:** npm, Docker
 
-Com experiência em desenvolvimento de sistemas web escaláveis, desde a concepção de protótipos até a implementação final, sou adepto de metodologias ágeis, incluindo Scrum e Kanban. Busco constantemente aprimorar meu trabalho por meio de feedback e colaboração efetiva em equipe.
+### UX/UI & Design
 
-### Competências Principais
+* Design de interfaces focadas em usabilidade, acessibilidade e conversão
+* Criação de fluxos, wireframes e protótipos de média e alta fidelidade
+* Forte atuação em **design systems** e componentes reutilizáveis
+* Ferramentas: **Figma**, Adobe Photoshop
 
-- **Metodologias e Ferramentas:** Scrum, Kanban, Ambiente ágil
-- **Design:** UX UI, Web Design, Web Design Responsivo, Design Gráfico
-- **Outras Habilidades:** Adobe Photoshop, Figma
+---
 
-### Experiência Comprovada
+## Inteligência Artificial aplicada ao Desenvolvimento
 
-Com uma sólida experiência no desenvolvimento de programas de computador sob encomenda, licenciamento de programas customizáveis e não customizáveis, além da capacidade de treinar clientes e colaboradores, estou comprometido em impulsionar a inovação e fornecer soluções tecnológicas excepcionais.
+Atuo de forma prática com **IA aplicada à engenharia de software**, utilizando modelos de linguagem e ferramentas modernas para otimizar processos, acelerar entregas e aumentar a qualidade dos produtos.
 
-Se você procura um profissional que une habilidades técnicas avançadas, paixão pelo design e comprometimento com a inovação, estou pronto para contribuir para o sucesso do seu projeto. Vamos criar algo incrível juntos!
+* Uso de **LLMs** no apoio à arquitetura, desenvolvimento, refatoração e documentação de código
+* Aplicação de **MCPs (Model Context Protocols)** para orquestração de contexto e automação inteligente
+* Experiência com ferramentas de **AI-assisted development** como:
+
+  * Lovable
+  * Bolt
+  * Outras plataformas de construção e prototipação acelerada por IA
+
+Meu foco é usar IA como **copiloto estratégico**, mantendo decisões técnicas e de produto bem fundamentadas.
+
+---
+
+## Desenvolvimento de Produtos Escaláveis
+
+Possuo experiência no desenvolvimento de sistemas web escaláveis, atuando desde a fase de **descoberta e prototipação**, passando por implementação, evolução contínua e manutenção.
+
+* Vivência em ambientes **SaaS**
+* Integração entre front-end, regras de negócio e experiência do usuário
+* Adepto de **metodologias ágeis**: Scrum e Kanban
+* Forte cultura de feedback, colaboração e melhoria contínua
+
+---
+
+## Competências Principais
+
+* **Metodologias Ágeis:** Scrum, Kanban, ambientes ágeis
+* **Design:** UX/UI, Web Design, Design Responsivo, Design Gráfico
+* **Front-end Engineering:** Componentização, performance, escalabilidade
+* **IA aplicada:** Automação de fluxos, produtividade e apoio à decisão técnica
+
+---
+
+## Experiência Profissional
+
+Tenho experiência sólida no:
+
+* Desenvolvimento de **software sob encomenda**
+* Criação e manutenção de **sistemas licenciados**, customizáveis ou não
+* Evolução contínua de produtos digitais
+* Treinamento e capacitação de clientes e colaboradores
+* Atuação como **desenvolvedor pleno**, com autonomia técnica e responsabilidade sobre entregas
+
+---
+
+Se você busca um profissional que une **engenharia front-end**, **design centrado no usuário** e **uso inteligente de IA** para acelerar resultados, estou pronto para contribuir.
+
+Vamos construir produtos digitais sólidos, modernos e relevantes 🚀
